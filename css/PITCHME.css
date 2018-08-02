@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Hasklig';
+  src: url("https://raw.githubusercontent.com/DanCouper/css-guides/master/public/fonts/hasklig-medium-webfont.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-variant: common-ligatures discretionary-ligatures contextual;
+text-rendering: optimizeLegibility; }
+
+.reveal p {
+  font-size: 30px;
+}
+
+.reveal td {
+  font-size: 30px;
+}
+
+.reveal code .line {
+  font-size: 15px;
+  font-family: 'Hasklig';
+}
