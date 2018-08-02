@@ -1,0 +1,6 @@
+# Look-and-Feel
+theme: beige
+
+# Code
+highlight: atom-one-dark
+code-line-numbers: true
